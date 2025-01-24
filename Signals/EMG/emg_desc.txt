@@ -1,0 +1,9 @@
+Abstract
+An electromyogram (EMG) is a common clinical test used to assess function of muscles and the nerves that control them. EMG studies are used to help in the diagnosis and management of disorders such as the muscular dystrophies and neuropathies. Nerve conduction studies that measure how well and how fast the nerves conduct impulses are often performed in conjunction with EMG studies.
+
+Examples of EMG studies (courtesy of Seward Rutkove, MD, Department of Neurology, Beth Israel Deaconess Medical Center/Harvard Medical School) are given here.
+
+Data Description
+Data were collected with a Medelec Synergy N2 EMG Monitoring System (Oxford Instruments Medical, Old Woking, United Kingdom). A 25mm concentric needle electrode was placed into the tibialis anterior muscle of each subject. The patient was then asked to dorsiflex the foot gently against resistance. The needle electrode was repositioned until motor unit potentials with a rapid rise time were identified. Data were then collected for several seconds, at which point the patient was asked to relax and the needle removed.
+
+The figure shows three examples of EMG data from: 1) a 44 year old man without history of neuromuscular disease; 2) a 62 year old man with chronic low back pain and neuropathy due to a right L5 radiculopathy; and 3) a 57 year old man with myopathy due to longstanding history of polymyositis, treated effectively with steroids and low-dose methotrexate. The data were recorded at 50 KHz and then downsampled to 4 KHz. During the recording process two analog filters were used: a 20 Hz high-pass filter and a 5K Hz low-pass filter.
